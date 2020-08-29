@@ -7,6 +7,7 @@ import logging
 import requests
 
 # Based on Dmytro Litvinov's client for the Kuna API v2, but rewritten to use the Kuna API v3
+# Original client's repository: https://github.com/DmytroLitvinov/kuna
 __author__ = 'Dmytro Litvinov'
 __email__ = 'litvinov.do.it@gmail.com'
 __version__ = '0.3.3'
