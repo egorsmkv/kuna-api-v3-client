@@ -1,6 +1,11 @@
 # A Python client for the Kuna API v3
 
-See examples of usage:
+## Changes from the original client
+
+* Update API to v3
+* Only support Python 3, removed support of Python 2
+
+## Examples
 
 ```python
 import logging
